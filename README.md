@@ -12,6 +12,7 @@
   5. Seesaw Switch 2 Terminals
   6. Dual 18650 Battery Holder
   7. 18650 batteries (2x)
+  8. TCRT5000 Line Follower Module (x4)
  
  ## Circuit:
  ![Web 1](https://github.com/Ivoneideduarte/line-follower-car/blob/main/Circuit/Car-line-follower_bb.png)
